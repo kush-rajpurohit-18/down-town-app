@@ -1,0 +1,13 @@
+.medical-service {
+  width: 162px;
+  height: 116px;
+  border-radius: 10px;
+  background: #e0f1f4;
+  margin: 0.2rem;
+  text-align: center;
+  padding-top: 1rem;
+}
+.medical-service-text {
+  font-weight: bold;
+  font-size: 12px;
+}

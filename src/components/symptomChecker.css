@@ -1,0 +1,21 @@
+.symptom-checker-heading {
+  display: flex;
+  justify-content: end;
+  gap: 6rem;
+  margin: 1rem;
+  align-items: center;
+}
+.symptom-checker-heading-text {
+  color: #484848;
+  font-weight: 600;
+}
+.symptom-checker-body-search {
+  color: #484848;
+  font-weight: 600;
+  display: flex;
+  gap: 1rem;
+  margin-left: 1rem;
+}
+.symptom-checker-search {
+  color: #65b9c6;
+}
